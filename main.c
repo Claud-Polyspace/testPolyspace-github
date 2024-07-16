@@ -2,7 +2,7 @@
 
 int main()
 {
-    int a;
+    int a = 10;
     printf("A is: %d\r\n", a);
     return 0;
 }
